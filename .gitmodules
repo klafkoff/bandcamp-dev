@@ -1,0 +1,6 @@
+[submodule "lab/DenonDJ-Eaas-Server"]
+	path = lab/DenonDJ-Eaas-Server
+	url = https://github.com/andyscuff/DenonDJ-Eaas-Server.git
+[submodule "lab/go-stagelinq"]
+	path = lab/go-stagelinq
+	url = https://github.com/icedream/go-stagelinq.git

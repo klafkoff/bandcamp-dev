@@ -1,0 +1,10 @@
+# Built EAAS binaries
+lab/**/storage
+lab/**/storage-discover
+**/storage-discover
+
+# Go / editor
+*.exe
+.DS_Store
+.idea/
+.vscode/
